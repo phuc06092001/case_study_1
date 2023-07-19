@@ -1,6 +1,9 @@
 *{
     font-family: 'VT323', monospace;
 }
+body{
+    background-color: white;
+}
 .container{
     display: grid;
     grid-template-columns: 320px 200px;
